@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConstraintsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FlattenedNetName2ConstraintNetId>
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1_2" ConstraintNetId="2805ca5b-8caf-43cd-abab-beebc103707a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetPOWER LED_1" ConstraintNetId="040dd50b-2683-45db-a0a1-002f0e0bcbde" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetQ1_3" ConstraintNetId="8f8ccd08-1a2d-4670-b9aa-10ebe46c441d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetD3_2" ConstraintNetId="f08b66c1-2051-4399-9152-3513899f39c0" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetD4_2" ConstraintNetId="f098e3d2-86e3-47e5-90b8-dee271f43bcb" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC2_1" ConstraintNetId="ad662b53-a02a-489d-b52e-3918b2061e4b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetBAT_2" ConstraintNetId="7a2a9091-d329-489c-b16b-882a6bdda89e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Net10K_3" ConstraintNetId="c3625034-a5da-4af5-b351-e7d3b42d11b7" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Net10K_2" ConstraintNetId="7bdebb9c-d47f-49a2-809d-5a8f696acf61" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Net10K_1" ConstraintNetId="56b78279-73ed-4e88-8799-c5852bd4b0e7" />
+  </FlattenedNetName2ConstraintNetId>
+  <CNets>
+    <CNet Id="2805ca5b-8caf-43cd-abab-beebc103707a">
+      <Constraints>
+        <Constraint Id="352ba894-a435-4cce-88a5-4e586f267338" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetC1_2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="040dd50b-2683-45db-a0a1-002f0e0bcbde">
+      <Constraints>
+        <Constraint Id="f1694e19-2f1f-4856-af94-fcb97d795f13" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetPOWER LED_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="8f8ccd08-1a2d-4670-b9aa-10ebe46c441d">
+      <Constraints>
+        <Constraint Id="84a596d9-ec53-4768-a746-8fda9bcff040" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetQ1_3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="f08b66c1-2051-4399-9152-3513899f39c0">
+      <Constraints>
+        <Constraint Id="91796355-e527-4b46-aa48-bc5929c3b9ae" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetD3_2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="f098e3d2-86e3-47e5-90b8-dee271f43bcb">
+      <Constraints>
+        <Constraint Id="88e8d529-7846-49af-8988-e877491ad5ca" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetD4_2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ad662b53-a02a-489d-b52e-3918b2061e4b">
+      <Constraints>
+        <Constraint Id="0c9fbf16-fc3c-4edd-90bf-f566bbb566c8" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetC?_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7a2a9091-d329-489c-b16b-882a6bdda89e">
+      <Constraints>
+        <Constraint Id="6aa12484-7797-407c-8122-44397d80b4dc" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('NetBAT_2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c3625034-a5da-4af5-b351-e7d3b42d11b7">
+      <Constraints>
+        <Constraint Id="29d9b603-0c96-4e5f-abd7-06444a2879de" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('Net10K_3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7bdebb9c-d47f-49a2-809d-5a8f696acf61">
+      <Constraints>
+        <Constraint Id="ac5298d3-2411-492a-8347-9859480f9b65" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('Net10K_2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="56b78279-73ed-4e88-8799-c5852bd4b0e7">
+      <Constraints>
+        <Constraint Id="1d71374a-5c1c-43c1-8099-c3e930871b60" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InNet('Net10K_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+  </CNets>
+  <CNetClasses>
+    <CNetClass Id="47eafe78-7681-44cc-b485-06ce2dd863ea" Name="All Nets" IsPredefined="true" Domain="2">
+      <Constraints>
+        <Constraint Id="a72e95a1-5a33-4291-b9d5-c5f90a10aeb0" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 0.254mm    Min Width = 0.254mm    Max Width = 0.254mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|PREFEREDWIDTH=10mil" />
+        <Constraint Id="fe935834-c09b-4b7f-971c-9024a66fb469" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Shortest]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Shortest" />
+        <Constraint Id="9d2ca390-2efd-40e5-a818-e99d917fa9da" Kind="9" Name="Schematic Routing Layers" Comment="" Description="Routing Layers [TopLayer - DisabledBottomLayer - Enabled ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOP LAYER_V5=FALSE|MID LAYER 1_V5=TRUE|MID LAYER 2_V5=TRUE|MID LAYER 3_V5=TRUE|MID LAYER 4_V5=TRUE|MID LAYER 5_V5=TRUE|MID LAYER 6_V5=TRUE|MID LAYER 7_V5=TRUE|MID LAYER 8_V5=TRUE|MID LAYER 9_V5=TRUE|MID LAYER 10_V5=TRUE|MID LAYER 11_V5=TRUE|MID LAYER 12_V5=TRUE|MID LAYER 13_V5=TRUE|MID LAYER 14_V5=TRUE|MID LAYER 15_V5=TRUE|MID LAYER 16_V5=TRUE|MID LAYER 17_V5=TRUE|MID LAYER 18_V5=TRUE|MID LAYER 19_V5=TRUE|MID LAYER 20_V5=TRUE|MID LAYER 21_V5=TRUE|MID LAYER 22_V5=TRUE|MID LAYER 23_V5=TRUE|MID LAYER 24_V5=TRUE|MID LAYER 25_V5=TRUE|MID LAYER 26_V5=TRUE|MID LAYER 27_V5=TRUE|MID LAYER 28_V5=TRUE|MID LAYER 29_V5=TRUE|MID LAYER 30_V5=TRUE|BOTTOM LAYER_V5=TRUE" />
+        <Constraint Id="833f96aa-4a3b-413b-8ab1-31c0cee6bfe5" Kind="11" Name="Schematic Routing Via Style" Comment="" Description="Routing Via Style [Pref Size = 1.27mm    Pref Hole Size = 0.711mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|HOLEWIDTH=28mil|WIDTH=50mil|VIASTYLE=Through Hole|MINHOLEWIDTH=28mil|MINWIDTH=50mil|MAXHOLEWIDTH=28mil|MAXWIDTH=50mil" />
+        <Constraint Id="5d092dda-73c1-4dfc-b01a-03a919050aa4" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+        <Constraint Id="82a9caf7-c373-459c-afe9-05367fa82950" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 0.254mm    Min Gap  = 0.254mm    Max Gap  = 0.254mmPref Width = 0.381mm    Min Width  = 0.381mm    Max Width  = 0.381mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|MOSTFREQGAP=10mil|TOPLAYER_MINWIDTH=15mil|TOPLAYER_MAXWIDTH=15mil|TOPLAYER_PREFWIDTH=15mil|MIDLAYER1_MINWIDTH=15mil|MIDLAYER1_MAXWIDTH=15mil|MIDLAYER1_PREFWIDTH=15mil|MIDLAYER2_MINWIDTH=15mil|MIDLAYER2_MAXWIDTH=15mil|MIDLAYER2_PREFWIDTH=15mil|MIDLAYER3_MINWIDTH=15mil|MIDLAYER3_MAXWIDTH=15mil|MIDLAYER3_PREFWIDTH=15mil|MIDLAYER4_MINWIDTH=15mil|MIDLAYER4_MAXWIDTH=15mil|MIDLAYER4_PREFWIDTH=15mil|MIDLAYER5_MINWIDTH=15mil|MIDLAYER5_MAXWIDTH=15mil|MIDLAYER5_PREFWIDTH=15mil|MIDLAYER6_MINWIDTH=15mil|MIDLAYER6_MAXWIDTH=15mil|MIDLAYER6_PREFWIDTH=15mil|MIDLAYER7_MINWIDTH=15mil|MIDLAYER7_MAXWIDTH=15mil|MIDLAYER7_PREFWIDTH=15mil|MIDLAYER8_MINWIDTH=15mil|MIDLAYER8_MAXWIDTH=15mil|MIDLAYER8_PREFWIDTH=15mil|MIDLAYER9_MINWIDTH=15mil|MIDLAYER9_MAXWIDTH=15mil|MIDLAYER9_PREFWIDTH=15mil|MIDLAYER10_MINWIDTH=15mil|MIDLAYER10_MAXWIDTH=15mil|MIDLAYER10_PREFWIDTH=15mil|MIDLAYER11_MINWIDTH=15mil|MIDLAYER11_MAXWIDTH=15mil|MIDLAYER11_PREFWIDTH=15mil|MIDLAYER12_MINWIDTH=15mil|MIDLAYER12_MAXWIDTH=15mil|MIDLAYER12_PREFWIDTH=15mil|MIDLAYER13_MINWIDTH=15mil|MIDLAYER13_MAXWIDTH=15mil|MIDLAYER13_PREFWIDTH=15mil|MIDLAYER14_MINWIDTH=15mil|MIDLAYER14_MAXWIDTH=15mil|MIDLAYER14_PREFWIDTH=15mil|MIDLAYER15_MINWIDTH=15mil|MIDLAYER15_MAXWIDTH=15mil|MIDLAYER15_PREFWIDTH=15mil|MIDLAYER16_MINWIDTH=15mil|MIDLAYER16_MAXWIDTH=15mil|MIDLAYER16_PREFWIDTH=15mil|MIDLAYER17_MINWIDTH=15mil|MIDLAYER17_MAXWIDTH=15mil|MIDLAYER17_PREFWIDTH=15mil|MIDLAYER18_MINWIDTH=15mil|MIDLAYER18_MAXWIDTH=15mil|MIDLAYER18_PREFWIDTH=15mil|MIDLAYER19_MINWIDTH=15mil|MIDLAYER19_MAXWIDTH=15mil|MIDLAYER19_PREFWIDTH=15mil|MIDLAYER20_MINWIDTH=15mil|MIDLAYER20_MAXWIDTH=15mil|MIDLAYER20_PREFWIDTH=15mil|MIDLAYER21_MINWIDTH=15mil|MIDLAYER21_MAXWIDTH=15mil|MIDLAYER21_PREFWIDTH=15mil|MIDLAYER22_MINWIDTH=15mil|MIDLAYER22_MAXWIDTH=15mil|MIDLAYER22_PREFWIDTH=15mil|MIDLAYER23_MINWIDTH=15mil|MIDLAYER23_MAXWIDTH=15mil|MIDLAYER23_PREFWIDTH=15mil|MIDLAYER24_MINWIDTH=15mil|MIDLAYER24_MAXWIDTH=15mil|MIDLAYER24_PREFWIDTH=15mil|MIDLAYER25_MINWIDTH=15mil|MIDLAYER25_MAXWIDTH=15mil|MIDLAYER25_PREFWIDTH=15mil|MIDLAYER26_MINWIDTH=15mil|MIDLAYER26_MAXWIDTH=15mil|MIDLAYER26_PREFWIDTH=15mil|MIDLAYER27_MINWIDTH=15mil|MIDLAYER27_MAXWIDTH=15mil|MIDLAYER27_PREFWIDTH=15mil|MIDLAYER28_MINWIDTH=15mil|MIDLAYER28_MAXWIDTH=15mil|MIDLAYER28_PREFWIDTH=15mil|MIDLAYER29_MINWIDTH=15mil|MIDLAYER29_MAXWIDTH=15mil|MIDLAYER29_PREFWIDTH=15mil|MIDLAYER30_MINWIDTH=15mil|MIDLAYER30_MAXWIDTH=15mil|MIDLAYER30_PREFWIDTH=15mil|BOTTOMLAYER_MINWIDTH=15mil|BOTTOMLAYER_MAXWIDTH=15mil|BOTTOMLAYER_PREFWIDTH=15mil|MAXUNCOUPLEDLENGTH=500mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets />
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+  </CNetClasses>
+  <CDifferentialPairs />
+  <CDifferentialPairClasses>
+    <CDifferentialPairClass Id="9c612c19-030c-4c79-9136-a00599cb0fdc" Name="All Differential Pairs" IsPredefined="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CDifferentialPairs />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPairClass>
+  </CDifferentialPairClasses>
+  <CPinPairs />
+  <CxSigClasses />
+  <CxNets />
+  <CXNetClasses>
+    <CXNetClass Id="e646e311-1873-4401-aebd-4303a3859aef" Name="All xNets" IsPredefined="true">
+      <Constraints>
+        <Constraint Id="78891be2-2435-4995-949b-ff08e281f38a" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 0.254mm    Angle = 45    # Entries = 4    Air Gap = 0.254mm    ]" Scope1="InxNetClass('All xNets')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=45 Angle|AIRGAPWIDTH=10mil" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CXNets />
+    </CXNetClass>
+  </CXNetClasses>
+  <ConstraintClearancesMatrix>
+    <CCMFromScopes>
+      <CCMFromScope Id="66821dc7-5fee-4051-92c1-fb47ed21df37">
+        <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+        <CCMToScopes>
+          <CCMToScope Id="18df16c1-2801-4380-9a03-a277ecb1b658" SetId="00000000-0000-0000-0000-000000000000">
+            <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+            <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Comment="" Description="" Attributes="" LayerType="0" LayerId="0" />
+            <CCMConstraints>
+              <CCMConstraint Id="d6c86f70-be34-4ac3-95e0-87620646027f" Kind="0" Name="ClearanceAll_1" Comment="" Description="Clearance Constraint [Clearance = 0.254mm]" Scope1="OnOutside" Scope2="OnOutside" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="1" LayerId="0" OverrideClearancePairs="" />
+              <CCMConstraint Id="6e46e053-5823-4020-833f-0e69ce878e69" Kind="0" Name="ClearanceAll_2" Comment="" Description="Clearance Constraint [Clearance = 0.254mm]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="2" LayerId="0" OverrideClearancePairs="" />
+            </CCMConstraints>
+          </CCMToScope>
+        </CCMToScopes>
+      </CCMFromScope>
+    </CCMFromScopes>
+  </ConstraintClearancesMatrix>
+  <ConstraintSameNetClearancesMatrix>
+    <CCMFromScopes />
+  </ConstraintSameNetClearancesMatrix>
+  <CSets />
+  <CClearancesMatrixSets />
+  <CClearanceFilters />
+  <CCMCreepageConstraints />
+  <CImportedDirectiveUniqueIds />
+  <OtherConstraints />
+  <NetGroups />
+  <XNetDiffPairs />
+  <Settings UnitSystem="SI" />
+  <FileVersion MinorVersion="6">
+    <FileVersionInfo>H4sIAAAAAAAACj2OQW6DMBBFrzIXACWE1HTBomqkrrKpUPfGDDCp8ViecSMkDl/Sqt0+6f3/3jIN7Wiez8bZuuirc1XUjTkWjTk1xWCe+tEatMdx3C7s8oJBuzViW21XCpw+MAlxaE/bO3q0gn+gqsumPGyvvESr1JMnXX/Ew3ZFETth280kEBPf0Ck4DmopCKTsUSALhQlcFuUFvF0xgah1n1JCN6Mg3Ml76BE8i8J9xgAcMTwknfF/lQJY+PpNAh7hxSvlBS4oNIV9U2erMPB+GFhBcoycdKd72JiD012zj/LyG9yj5AYmAQAA</FileVersionInfo>
+  </FileVersion>
+</ConstraintsData>
